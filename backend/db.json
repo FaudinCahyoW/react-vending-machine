@@ -1,0 +1,81 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "image": "http://localhost:3001/teh-kotak.webp",
+      "productName": "Teh Kotak",
+      "price": 6000,
+      "stock": 7
+    },
+    {
+      "id": "2",
+      "image": "http://localhost:3001/jus-jeruk.webp",
+      "productName": "Jus Jeruk",
+      "price": 5000,
+      "stock": 5
+    },
+    {
+      "id": "3",
+      "image": "http://localhost:3001/susu-kotak.webp",
+      "productName": "Susu Kotak",
+      "price": 10000,
+      "stock": 3
+    },
+    {
+      "id": "4",
+      "image": "http://localhost:3001/kopi-luwak.webp",
+      "productName": "Kopi Luwak",
+      "price": 15000,
+      "stock": 0
+    },
+    {
+      "id": "5",
+      "image": "http://localhost:3001/fruittea.webp",
+      "productName": "Fruitea Mix",
+      "price": 20000,
+      "stock": 2
+    }
+  ],
+  "transaction": [
+    {
+      "id": "0476",
+      "productId": "4",
+      "productName": "Kopi Luwak",
+      "price": 15000,
+      "paid": 25000,
+      "change": 10000
+    },
+    {
+      "id": "2bc2",
+      "productId": "5",
+      "productName": "Fruitea Mix",
+      "price": 20000,
+      "paid": 50000,
+      "change": 30000
+    },
+    {
+      "id": "857f",
+      "productId": "1",
+      "productName": "Teh Kotak",
+      "price": 6000,
+      "paid": 20000,
+      "change": 14000
+    },
+    {
+      "id": "e1ac",
+      "productId": "3",
+      "productName": "Susu Kotak",
+      "price": 10000,
+      "paid": 52000,
+      "change": 42000
+    },
+    {
+      "id": "c4a5",
+      "productId": "1",
+      "productName": "Teh Kotak",
+      "price": 6000,
+      "paid": 50000,
+      "change": 44000
+    }
+  ]
+}
