@@ -75,16 +75,16 @@ Pengguna dapat memasukkan uang dengan nominal tertentu, membeli produk, mendapat
  ![Home](./screenshots/responsive-home.png)
 
 ### Insert Money
-![Insert Money](./screenshorts/money.png
+![Insert Money](./screenshots/money.png)
 
  ## Insert Money (Mobile)
- ![Insert Money](./screenshorts/responisive-money.png
+ ![Insert Money](./screenshots/responsive-money.png)
 
 ### History Pembelian
-![History Pembelian](./screenshorts/receipt.png
+![History Pembelian](./screenshots/receipt.png)
 
  ## History Pembelian (Mobile)
- ![History Pembelian](./screenshorts/responsive-receipt.png
+ ![History Pembelian](./screenshots/responsive-receipt.png)
  
 📝 Catatan Tambahan
 
